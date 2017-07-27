@@ -1,0 +1,13 @@
+#Percorsi
+paths:
+  - C:\Users\OnofujoHawk\Desktop\Test\Salesforce_Test_Project\src\classes\
+  - C:\Users\OnofujoHawk\Desktop\Test\VSalesforce_Test_Project\src\triggers\
+  - C:\Users\OnofujoHawk\Desktop\Test\Salesforce_Test_Project\src\pages\
+  - C:\Users\OnofujoHawk\Desktop\Test\Salesforce_Test_Project\src\components\
+
+#Templates
+templates:
+  - cls-meta.xml
+  - trigger-meta.xml
+  - page-meta.xml
+  - component-meta.xml
